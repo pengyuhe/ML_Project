@@ -202,3 +202,33 @@
 2017-05-06:20:08:45 b05 /export/b05/pengyuhe/ML_Project_2/KNN_keep_punc_unstem  1906  06/05/17 2017-05-06 20:08:45 git remote add origin https://github.com/pengyuhe/ML_Project.git
 2017-05-06:20:09:01 b05 /export/b05/pengyuhe/ML_Project_2/KNN_keep_punc_unstem  1906  06/05/17 2017-05-06 20:08:52 git push -u origin master
 2017-05-06:20:14:18 b05 /export/b05/pengyuhe/ML_Project_2/KNN_keep_punc_unstem  1907  06/05/17 2017-05-06 20:14:17 git pull origin master
+2017-05-06:20:14:44 b05 /export/b05/pengyuhe/ML_Project_2/KNN_keep_punc_unstem  1907  06/05/17 2017-05-06 20:14:44 git add .
+2017-05-06:20:14:55 b05 /export/b05/pengyuhe/ML_Project_2/KNN_keep_punc_unstem  1907  06/05/17 2017-05-06 20:14:55 git commit -m 'initial commit'
+2017-05-06:20:15:32 b05 /export/b05/pengyuhe/ML_Project_2/KNN_keep_punc_unstem  1908  06/05/17 2017-05-06 20:15:27 git push origin master
+2017-05-06:20:15:48 b05 /export/b05/pengyuhe/ML_Project_2/KNN_keep_punc_unstem  1908  06/05/17 2017-05-06 20:15:27 git push origin master
+2017-05-06:20:17:32 b05 /export/b05/pengyuhe/ML_Project_2/KNN_keep_punc_unstem  1908  06/05/17 2017-05-06 20:17:32 ls
+2017-05-06:20:17:40 b05 /export/b05/pengyuhe/ML_Project_2/KNN_keep_punc_unstem  1909  06/05/17 2017-05-06 20:17:35 vi KNN_test.py
+2017-05-06:20:27:16 b05 /export/b05/pengyuhe/ML_Project_2/KNN_keep_punc_unstem  1898  06/05/17 2017-05-06 20:17:42 vi Generate_clean_review.py 
+2017-05-06:20:27:23 b05 /export/b05/pengyuhe/ML_Project_2/KNN_keep_punc_unstem  1896  06/05/17 2017-05-06 20:27:22 python Generate_clean_review.py 
+2017-05-06:20:27:33 b05 /export/b05/pengyuhe/ML_Project_2/KNN_keep_punc_unstem  1897  06/05/17 2017-05-06 20:27:32 source activate MVLSA
+2017-05-06:20:27:42 b05 /export/b05/pengyuhe/ML_Project_2/KNN_keep_punc_unstem  1881  06/05/17 2017-05-06 20:27:40 source activate ML_Project
+2017-05-06:20:27:43 b05 /export/b05/pengyuhe/ML_Project_2/KNN_keep_punc_unstem  1881  06/05/17 2017-05-06 20:27:43 ls
+2017-05-06:20:28:04 b05 /export/b05/pengyuhe/ML_Project_2/KNN_keep_punc_unstem  1894  06/05/17 2017-05-06 20:28:04 cd KNN_keep_punc_unstem/
+2017-05-06:20:28:04 b05 /export/b05/pengyuhe/ML_Project_2/KNN_keep_punc_unstem  1894  06/05/17 2017-05-06 20:28:04 ls
+2017-05-06:20:28:13 b05 /export/b05/pengyuhe/ML_Project_2/KNN_keep_punc_unstem  1895  06/05/17 2017-05-06 20:28:09 vi KNN_test.py 
+2017-05-06:20:28:18 b05 /export/b05/pengyuhe/ML_Project_2/KNN_keep_punc_unstem  1896  06/05/17 2017-05-06 20:28:18 vp KNN.py KNN_test.py 
+2017-05-06:20:28:24 b05 /export/b05/pengyuhe/ML_Project_2/KNN_keep_punc_unstem  1897  06/05/17 2017-05-06 20:28:24 cp KNN.py KNN_test.py 
+2017-05-06:20:28:27 b05 /export/b05/pengyuhe/ML_Project_2/KNN_keep_punc_unstem  1881  06/05/17 2017-05-06 20:27:47 python Generate_clean_review.py 
+2017-05-06:20:30:01 b05 /export/b05/pengyuhe/ML_Project_2/KNN_keep_punc_unstem  1881  06/05/17 2017-05-06 20:30:01 ls
+2017-05-06:20:30:08 b05 /export/b05/pengyuhe/ML_Project_2/KNN_keep_punc_unstem  1882  06/05/17 2017-05-06 20:30:06 vi Clean_test_doc.npy 
+2017-05-06:20:37:20 b05 /export/b05/pengyuhe/ML_Project_2/KNN_keep_punc_unstem  1882  06/05/17 2017-05-06 20:30:15 vi Best_Results.txt 
+2017-05-06:20:37:22 b05 /export/b05/pengyuhe/ML_Project_2/KNN_keep_punc_unstem  1882  06/05/17 2017-05-06 20:37:22 ls
+2017-05-06:20:38:15 b05 /export/b05/pengyuhe/ML_Project_2/KNN_keep_punc_unstem  1882  06/05/17 2017-05-06 20:37:26 vi Best_Results.txt 
+2017-05-06:20:38:30 b05 /export/b05/pengyuhe/ML_Project_2/KNN_keep_punc_unstem  1883  06/05/17 2017-05-06 20:38:30 python KNN_test.py
+2017-05-06:20:38:50 b05 /export/b05/pengyuhe/ML_Project_2/KNN_keep_punc_unstem  1883  06/05/17 2017-05-06 20:38:30 python KNN_test.py
+2017-05-06:20:39:10 b05 /export/b05/pengyuhe/ML_Project_2/KNN_keep_punc_unstem  1883  06/05/17 2017-05-06 20:38:30 python KNN_test.py
+2017-05-06:20:39:31 b05 /export/b05/pengyuhe/ML_Project_2/KNN_keep_punc_unstem  1883  06/05/17 2017-05-06 20:38:30 python KNN_test.py
+2017-05-06:20:40:58 b05 /export/b05/pengyuhe/ML_Project_2/KNN_keep_punc_unstem  1863  06/05/17 2017-05-06 20:40:58 pwd
+2017-05-06:20:41:20 b05 /export/b05/pengyuhe/ML_Project_2/KNN_keep_punc_unstem  1863  06/05/17 2017-05-06 20:41:20 ls
+2017-05-06:20:45:29 b05 /export/b05/pengyuhe/ML_Project_2/KNN_keep_punc_unstem  1863  06/05/17 2017-05-06 20:45:24 python KNN_test.py
+2017-05-06:20:46:27 b05 /export/b05/pengyuhe/ML_Project_2/KNN_keep_punc_unstem  1863  06/05/17 2017-05-06 20:46:27 ls
