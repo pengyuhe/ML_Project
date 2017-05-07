@@ -1,0 +1,204 @@
+2017-05-06:12:24:45 b05 /export/b05/pengyuhe/ML_Project_2/Only_first  1894  06/05/17 2017-05-06 12:24:45 cd Only_first/
+2017-05-06:12:24:45 b05 /export/b05/pengyuhe/ML_Project_2/Only_first  1894  06/05/17 2017-05-06 12:24:45 ls
+2017-05-06:12:24:46 b05 /export/b05/pengyuhe/ML_Project_2/Only_first  1895  06/05/17 2017-05-06 12:24:46 :q
+2017-05-06:12:25:10 b05 /export/b05/pengyuhe/ML_Project_2/len_5  1897  06/05/17 2017-05-06 12:25:10 cd len_5/
+2017-05-06:12:25:11 b05 /export/b05/pengyuhe/ML_Project_2/len_5  1897  06/05/17 2017-05-06 12:25:11 ls
+2017-05-06:12:25:27 b05 /export/b05/pengyuhe/ML_Project_2/len_5  1898  06/05/17 2017-05-06 12:25:22 vi rm *.npy
+2017-05-06:12:25:31 b05 /export/b05/pengyuhe/ML_Project_2/len_5  1899  06/05/17 2017-05-06 12:25:31 rm *.npy
+2017-05-06:12:25:32 b05 /export/b05/pengyuhe/ML_Project_2/len_5  1899  06/05/17 2017-05-06 12:25:32 ls
+2017-05-06:12:26:19 b05 /export/b05/pengyuhe/ML_Project_2/len_5  1899  06/05/17 2017-05-06 12:25:38 vi Generate_clean_review.py 
+2017-05-06:12:26:37 b05 /export/b05/pengyuhe/ML_Project_2/len_5  1900  06/05/17 2017-05-06 12:26:25 vi Pipeline.sh 
+2017-05-06:12:26:58 b05 /export/b05/pengyuhe/ML_Project_2/len_5  1900  06/05/17 2017-05-06 12:26:25 vi Pipeline.sh 
+2017-05-06:12:27:21 b05 /export/b05/pengyuhe/ML_Project_2/len_5  1900  06/05/17 2017-05-06 12:27:04 vi Generate_clean_review.py 
+2017-05-06:12:28:43 b05 /export/b05/pengyuhe/ML_Project_2/len_5  1874  06/05/17 2017-05-06 12:28:43 cd len_5/
+2017-05-06:12:28:43 b05 /export/b05/pengyuhe/ML_Project_2/len_5  1874  06/05/17 2017-05-06 12:28:43 ls
+2017-05-06:12:29:05 b05 /export/b05/pengyuhe/ML_Project_2/len_5  1901  06/05/17 2017-05-06 12:27:24 ./Pipeline.sh
+2017-05-06:13:00:30 b05 /export/b05/pengyuhe/ML_Project_2/len_5  1901  06/05/17 2017-05-06 12:27:24 ./Pipeline.sh
+2017-05-06:13:32:01 b05 /export/b05/pengyuhe/ML_Project_2/len_5  1901  06/05/17 2017-05-06 13:31:42 vi Pipeline.sh 
+2017-05-06:13:32:37 b05 /export/b05/pengyuhe/ML_Project_2/len_5  1901  06/05/17 2017-05-06 13:31:42 vi Pipeline.sh 
+2017-05-06:13:32:38 b05 /export/b05/pengyuhe/ML_Project_2/len_5  1901  06/05/17 2017-05-06 13:32:38 ls
+2017-05-06:13:34:21 b05 /export/b05/pengyuhe/ML_Project_2/len_5  1935  06/05/17 2017-05-06 13:34:21 cd len_5/
+2017-05-06:13:34:21 b05 /export/b05/pengyuhe/ML_Project_2/len_5  1935  06/05/17 2017-05-06 13:34:21 ls
+2017-05-06:13:34:31 b05 /export/b05/pengyuhe/ML_Project_2/len_5  1936  06/05/17 2017-05-06 13:34:24 vi Pipeline.sh 
+2017-05-06:13:34:35 b05 /export/b05/pengyuhe/ML_Project_2/len_5  1902  06/05/17 2017-05-06 13:34:35 qsub -l mem_free=500G,ram_free=500G Pipeline.sh 
+2017-05-06:13:34:39 b05 /export/b05/pengyuhe/ML_Project_2/len_5  1870  06/05/17 2017-05-06 13:34:39 qhpy
+2017-05-06:13:34:42 b05 /export/b05/pengyuhe/ML_Project_2/len_5  1870  06/05/17 2017-05-06 13:34:39 qhpy
+2017-05-06:13:34:42 b05 /export/b05/pengyuhe/ML_Project_2/len_5  1870  06/05/17 2017-05-06 13:34:39 qhpy
+2017-05-06:13:34:43 b05 /export/b05/pengyuhe/ML_Project_2/len_5  1870  06/05/17 2017-05-06 13:34:39 qhpy
+2017-05-06:13:34:43 b05 /export/b05/pengyuhe/ML_Project_2/len_5  1870  06/05/17 2017-05-06 13:34:39 qhpy
+2017-05-06:13:34:44 b05 /export/b05/pengyuhe/ML_Project_2/len_5  1870  06/05/17 2017-05-06 13:34:39 qhpy
+2017-05-06:13:34:44 b05 /export/b05/pengyuhe/ML_Project_2/len_5  1870  06/05/17 2017-05-06 13:34:39 qhpy
+2017-05-06:13:34:45 b05 /export/b05/pengyuhe/ML_Project_2/len_5  1870  06/05/17 2017-05-06 13:34:39 qhpy
+2017-05-06:13:34:47 b05 /export/b05/pengyuhe/ML_Project_2/len_5  1936  06/05/17 2017-05-06 13:34:47 ls
+2017-05-06:13:34:59 b05 /export/b05/pengyuhe/ML_Project_2/len_5  1870  06/05/17 2017-05-06 13:34:59 ls
+2017-05-06:13:35:00 b05 /export/b05/pengyuhe/ML_Project_2/len_5  1870  06/05/17 2017-05-06 13:35:00 qhpy
+2017-05-06:13:35:28 b05 /export/b05/pengyuhe/ML_Project_2/len_5  1936  06/05/17 2017-05-06 13:34:47 ls
+2017-05-06:13:36:00 b05 /export/b05/pengyuhe/ML_Project_2/len_5  1870  06/05/17 2017-05-06 13:35:48 vi Pipeline.sh 
+2017-05-06:13:36:23 b05 /export/b05/pengyuhe/ML_Project_2/len_5  1870  06/05/17 2017-05-06 13:36:23 qsub -l mem_free=500G,ram_free=500G Pipeline.sh 
+2017-05-06:13:36:25 b05 /export/b05/pengyuhe/ML_Project_2/len_5  1870  06/05/17 2017-05-06 13:36:25 qhpy
+2017-05-06:13:37:24 b05 /export/b05/pengyuhe/ML_Project_2/len_5  1870  06/05/17 2017-05-06 13:36:25 qhpy
+2017-05-06:13:37:25 b05 /export/b05/pengyuhe/ML_Project_2/len_5  1870  06/05/17 2017-05-06 13:36:25 qhpy
+2017-05-06:13:38:42 b05 /export/b05/pengyuhe/ML_Project_2/len_5  1870  06/05/17 2017-05-06 13:36:25 qhpy
+2017-05-06:13:38:43 b05 /export/b05/pengyuhe/ML_Project_2/len_5  1870  06/05/17 2017-05-06 13:36:25 qhpy
+2017-05-06:13:38:43 b05 /export/b05/pengyuhe/ML_Project_2/len_5  1870  06/05/17 2017-05-06 13:36:25 qhpy
+2017-05-06:13:39:51 b05 /export/b05/pengyuhe/ML_Project_2/len_5  1870  06/05/17 2017-05-06 13:36:25 qhpy
+2017-05-06:13:39:52 b05 /export/b05/pengyuhe/ML_Project_2/len_5  1870  06/05/17 2017-05-06 13:36:25 qhpy
+2017-05-06:13:39:53 b05 /export/b05/pengyuhe/ML_Project_2/len_5  1870  06/05/17 2017-05-06 13:36:25 qhpy
+2017-05-06:13:39:54 b05 /export/b05/pengyuhe/ML_Project_2/len_5  1870  06/05/17 2017-05-06 13:36:25 qhpy
+2017-05-06:13:39:54 b05 /export/b05/pengyuhe/ML_Project_2/len_5  1870  06/05/17 2017-05-06 13:36:25 qhpy
+2017-05-06:13:40:03 b05 /export/b05/pengyuhe/ML_Project_2/len_5  1870  06/05/17 2017-05-06 13:36:25 qhpy
+2017-05-06:13:40:12 b05 /export/b05/pengyuhe/ML_Project_2/len_5  1870  06/05/17 2017-05-06 13:36:25 qhpy
+2017-05-06:13:40:13 b05 /export/b05/pengyuhe/ML_Project_2/len_5  1870  06/05/17 2017-05-06 13:36:25 qhpy
+2017-05-06:13:40:13 b05 /export/b05/pengyuhe/ML_Project_2/len_5  1870  06/05/17 2017-05-06 13:36:25 qhpy
+2017-05-06:13:44:23 b05 /export/b05/pengyuhe/ML_Project_2/len_5  1870  06/05/17 2017-05-06 13:36:25 qhpy
+2017-05-06:13:44:24 b05 /export/b05/pengyuhe/ML_Project_2/len_5  1870  06/05/17 2017-05-06 13:36:25 qhpy
+2017-05-06:13:44:28 b05 /export/b05/pengyuhe/ML_Project_2/len_5  1870  06/05/17 2017-05-06 13:36:25 qhpy
+2017-05-06:13:44:29 b05 /export/b05/pengyuhe/ML_Project_2/len_5  1870  06/05/17 2017-05-06 13:36:25 qhpy
+2017-05-06:13:44:30 b05 /export/b05/pengyuhe/ML_Project_2/len_5  1870  06/05/17 2017-05-06 13:36:25 qhpy
+2017-05-06:14:19:04 b05 /export/b05/pengyuhe/ML_Project_2/len_5  1870  06/05/17 2017-05-06 13:36:25 qhpy
+2017-05-06:14:19:05 b05 /export/b05/pengyuhe/ML_Project_2/len_5  1870  06/05/17 2017-05-06 13:36:25 qhpy
+2017-05-06:14:19:06 b05 /export/b05/pengyuhe/ML_Project_2/len_5  1870  06/05/17 2017-05-06 13:36:25 qhpy
+2017-05-06:14:19:07 b05 /export/b05/pengyuhe/ML_Project_2/len_5  1870  06/05/17 2017-05-06 13:36:25 qhpy
+2017-05-06:14:19:09 b05 /export/b05/pengyuhe/ML_Project_2/len_5  1870  06/05/17 2017-05-06 13:36:25 qhpy
+2017-05-06:14:19:10 b05 /export/b05/pengyuhe/ML_Project_2/len_5  1870  06/05/17 2017-05-06 13:36:25 qhpy
+2017-05-06:14:19:16 b05 /export/b05/pengyuhe/ML_Project_2/len_5  1870  06/05/17 2017-05-06 13:36:25 qhpy
+2017-05-06:14:19:18 b05 /export/b05/pengyuhe/ML_Project_2/len_5  1870  06/05/17 2017-05-06 13:36:25 qhpy
+2017-05-06:14:19:19 b05 /export/b05/pengyuhe/ML_Project_2/len_5  1870  06/05/17 2017-05-06 13:36:25 qhpy
+2017-05-06:14:19:23 b05 /export/b05/pengyuhe/ML_Project_2/len_5  1870  06/05/17 2017-05-06 14:19:23 ls
+2017-05-06:14:19:25 b05 /export/b05/pengyuhe/ML_Project_2/len_5  1870  06/05/17 2017-05-06 14:19:24 qhpy
+2017-05-06:14:24:07 b05 /export/b05/pengyuhe/ML_Project_2/len_5  1870  06/05/17 2017-05-06 14:19:24 qhpy
+2017-05-06:14:29:47 b05 /export/b05/pengyuhe/ML_Project_2/len_5  1937  06/05/17 2017-05-06 13:36:12 vi Test_data.py 
+2017-05-06:14:30:27 b05 /export/b05/pengyuhe/ML_Project_2/KNN  1919  06/05/17 2017-05-06 14:30:27 cd  KNN
+2017-05-06:14:30:28 b05 /export/b05/pengyuhe/ML_Project_2/KNN  1919  06/05/17 2017-05-06 14:30:28 ls
+2017-05-06:14:31:05 b05 /export/b05/pengyuhe/ML_Project_2/KNN  1920  06/05/17 2017-05-06 14:31:05 mv Generate_clean_review.py Generate_clean_review_and_Dict.py
+2017-05-06:14:33:22 b05 /export/b05/pengyuhe/ML_Project_2/KNN  1937  06/05/17 2017-05-06 14:33:22 cd KNN
+2017-05-06:14:33:23 b05 /export/b05/pengyuhe/ML_Project_2/KNN  1937  06/05/17 2017-05-06 14:33:23 ls
+2017-05-06:14:33:41 b05 /export/b05/pengyuhe/ML_Project_2/KNN  1929  06/05/17 2017-05-06 14:33:37 source activate ML_Project
+2017-05-06:14:34:57 b05 /export/b05/pengyuhe/ML_Project_2/KNN  1930  06/05/17 2017-05-06 14:34:57 python Generate_clean_review_and_Dict.py 
+2017-05-06:14:35:10 b05 /export/b05/pengyuhe/ML_Project_2/KNN  1930  06/05/17 2017-05-06 14:34:57 python Generate_clean_review_and_Dict.py 
+2017-05-06:14:37:01 b05 /export/b05/pengyuhe/ML_Project_2/KNN  1930  06/05/17 2017-05-06 14:34:57 python Generate_clean_review_and_Dict.py 
+2017-05-06:14:43:18 b05 /export/b05/pengyuhe/ML_Project_2/KNN  1863  06/05/17 2017-05-06 14:43:18 cd KN
+2017-05-06:14:43:22 b05 /export/b05/pengyuhe/ML_Project_2/KNN  1863  06/05/17 2017-05-06 14:43:22 ls
+2017-05-06:14:43:33 b05 /export/b05/pengyuhe/ML_Project_2/KNN  1921  06/05/17 2017-05-06 14:31:09 vi Generate_clean_review_and_Dict.py 
+2017-05-06:14:44:25 b05 /export/b05/pengyuhe/ML_Project_2/KNN  1864  06/05/17 2017-05-06 14:44:25 cd KNN
+2017-05-06:14:58:47 b05 /export/b05/pengyuhe/ML_Project_2/KNN  1921  06/05/17 2017-05-06 14:31:09 vi Generate_clean_review_and_Dict.py 
+2017-05-06:15:04:21 b05 /export/b05/pengyuhe/ML_Project_2/KNN  1878  06/05/17 2017-05-06 15:04:21 cd KNN
+2017-05-06:15:04:28 b05 /export/b05/pengyuhe/ML_Project_2/KNN  1878  06/05/17 2017-05-06 15:04:28 python Generate_clean_review_and_Dict.py 
+2017-05-06:15:07:27 b05 /export/b05/pengyuhe/ML_Project_2/KNN  1878  06/05/17 2017-05-06 15:04:28 python Generate_clean_review_and_Dict.py 
+2017-05-06:15:07:40 b05 /export/b05/pengyuhe/ML_Project_2/KNN  1863  06/05/17 2017-05-06 15:07:40 cd KNN
+2017-05-06:15:07:40 b05 /export/b05/pengyuhe/ML_Project_2/KNN  1863  06/05/17 2017-05-06 15:07:40 ls
+2017-05-06:15:09:34 b05 /export/b05/pengyuhe/ML_Project_2/KNN  1878  06/05/17 2017-05-06 15:04:28 python Generate_clean_review_and_Dict.py 
+2017-05-06:15:11:02 b05 /export/b05/pengyuhe/ML_Project_2/KNN  1863  06/05/17 2017-05-06 15:11:02 qhpy
+2017-05-06:15:11:50 b05 /export/b05/pengyuhe/ML_Project_2/KNN  1878  06/05/17 2017-05-06 15:04:28 python Generate_clean_review_and_Dict.py 
+2017-05-06:15:26:40 b05 /export/b05/pengyuhe/ML_Project_2/KNN  1878  06/05/17 2017-05-06 15:04:28 python Generate_clean_review_and_Dict.py 
+2017-05-06:15:37:56 b05 /export/b05/pengyuhe/ML_Project_2/KNN  1878  06/05/17 2017-05-06 15:04:28 python Generate_clean_review_and_Dict.py 
+2017-05-06:15:39:34 b05 /export/b05/pengyuhe/ML_Project_2/KNN  1878  06/05/17 2017-05-06 15:04:28 python Generate_clean_review_and_Dict.py 
+2017-05-06:15:40:45 b05 /export/b05/pengyuhe/ML_Project_2/KNN  1878  06/05/17 2017-05-06 15:04:28 python Generate_clean_review_and_Dict.py 
+2017-05-06:15:41:57 b05 /export/b05/pengyuhe/ML_Project_2/KNN  1878  06/05/17 2017-05-06 15:04:28 python Generate_clean_review_and_Dict.py 
+2017-05-06:15:43:35 b05 /export/b05/pengyuhe/ML_Project_2/KNN  1878  06/05/17 2017-05-06 15:04:28 python Generate_clean_review_and_Dict.py 
+2017-05-06:15:45:42 b05 /export/b05/pengyuhe/ML_Project_2/KNN  1878  06/05/17 2017-05-06 15:04:28 python Generate_clean_review_and_Dict.py 
+2017-05-06:15:49:22 b05 /export/b05/pengyuhe/ML_Project_2/KNN  1878  06/05/17 2017-05-06 15:04:28 python Generate_clean_review_and_Dict.py 
+2017-05-06:15:52:45 b05 /export/b05/pengyuhe/ML_Project_2/KNN  1878  06/05/17 2017-05-06 15:04:28 python Generate_clean_review_and_Dict.py 
+2017-05-06:15:54:29 b05 /export/b05/pengyuhe/ML_Project_2/KNN  1878  06/05/17 2017-05-06 15:04:28 python Generate_clean_review_and_Dict.py 
+2017-05-06:16:04:30 b05 /export/b05/pengyuhe/ML_Project_2/KNN  1878  06/05/17 2017-05-06 15:04:28 python Generate_clean_review_and_Dict.py 
+2017-05-06:16:05:26 b05 /export/b05/pengyuhe/ML_Project_2/KNN  1878  06/05/17 2017-05-06 15:04:28 python Generate_clean_review_and_Dict.py 
+2017-05-06:16:06:10 b05 /export/b05/pengyuhe/ML_Project_2/KNN  1878  06/05/17 2017-05-06 15:04:28 python Generate_clean_review_and_Dict.py 
+2017-05-06:16:06:17 b05 /export/b05/pengyuhe/ML_Project_2/KNN  1921  06/05/17 2017-05-06 14:31:09 vi Generate_clean_review_and_Dict.py 
+2017-05-06:16:06:34 b05 /export/b05/pengyuhe/ML_Project_2/KNN  1922  06/05/17 2017-05-06 16:06:34 mv Generate_clean_review_and_Dict.py  Generate_clean_review.py 
+2017-05-06:16:10:11 b05 /export/b05/pengyuhe/ML_Project_2/KNN  1878  06/05/17 2017-05-06 16:10:11 ls
+2017-05-06:16:10:59 b05 /export/b05/pengyuhe/ML_Project_2/KNN  1879  06/05/17 2017-05-06 16:10:16 python Generate_clean_review.py 
+2017-05-06:16:11:16 b05 /export/b05/pengyuhe/ML_Project_2/KNN  1880  06/05/17 2017-05-06 16:11:16 python KNN.py 
+2017-05-06:16:11:31 b05 /export/b05/pengyuhe/ML_Project_2/KNN  1880  06/05/17 2017-05-06 16:11:16 python KNN.py 
+2017-05-06:16:15:52 b05 /export/b05/pengyuhe/ML_Project_2/KNN  1880  06/05/17 2017-05-06 16:11:16 python KNN.py 
+2017-05-06:16:17:17 b05 /export/b05/pengyuhe/ML_Project_2/KNN  1880  06/05/17 2017-05-06 16:11:16 python KNN.py 
+2017-05-06:16:18:29 b05 /export/b05/pengyuhe/ML_Project_2/KNN  1880  06/05/17 2017-05-06 16:18:02 vi Generate_clean_review.py 
+2017-05-06:16:19:00 b05 /export/b05/pengyuhe/ML_Project_2/KNN  1880  06/05/17 2017-05-06 16:18:02 vi Generate_clean_review.py 
+2017-05-06:16:19:41 b05 /export/b05/pengyuhe/ML_Project_2/KNN  1915  06/05/17 2017-05-06 16:06:44 vi Generate_clean_review.py 
+2017-05-06:16:19:48 b05 /export/b05/pengyuhe/ML_Project_2/KNN  1880  06/05/17 2017-05-06 16:19:04 python Generate_clean_review.py 
+2017-05-06:16:20:23 b05 /export/b05/pengyuhe/ML_Project_2/KNN  1880  06/05/17 2017-05-06 16:20:23 ls
+2017-05-06:16:20:30 b05 /export/b05/pengyuhe/ML_Project_2/KNN  1878  06/05/17 2017-05-06 16:20:30 cd -
+2017-05-06:16:20:31 b05 /export/b05/pengyuhe/ML_Project_2/KNN  1878  06/05/17 2017-05-06 16:20:31 ls
+2017-05-06:16:21:21 b05 /export/b05/pengyuhe/ML_Project_2/KNN_keep_punc  1880  06/05/17 2017-05-06 16:21:21 cd KNN_keep_punc/
+2017-05-06:16:21:22 b05 /export/b05/pengyuhe/ML_Project_2/KNN_keep_punc  1880  06/05/17 2017-05-06 16:21:22 ls
+2017-05-06:16:21:27 b05 /export/b05/pengyuhe/ML_Project_2/KNN_keep_punc  1880  06/05/17 2017-05-06 16:21:22 ls
+2017-05-06:16:21:45 b05 /export/b05/pengyuhe/ML_Project_2/KNN_keep_punc  1881  06/05/17 2017-05-06 16:21:45 rm Test_data.py 
+2017-05-06:16:21:48 b05 /export/b05/pengyuhe/ML_Project_2/KNN_keep_punc  1882  06/05/17 2017-05-06 16:21:48 rm senti.py 
+2017-05-06:16:21:51 b05 /export/b05/pengyuhe/ML_Project_2/KNN_keep_punc  1883  06/05/17 2017-05-06 16:21:51 rm NN.py
+2017-05-06:16:21:57 b05 /export/b05/pengyuhe/ML_Project_2/KNN_keep_punc  1884  06/05/17 2017-05-06 16:21:57 rm GCCA_classifier.py 
+2017-05-06:16:21:58 b05 /export/b05/pengyuhe/ML_Project_2/KNN_keep_punc  1884  06/05/17 2017-05-06 16:21:58 ls
+2017-05-06:16:22:07 b05 /export/b05/pengyuhe/ML_Project_2/KNN_keep_punc  1885  06/05/17 2017-05-06 16:22:06 rm *.npy
+2017-05-06:16:32:49 b05 /export/b05/pengyuhe/ML_Project_2/KNN_keep_punc  1885  06/05/17 2017-05-06 16:32:49 ls
+2017-05-06:16:33:20 b05 /export/b05/pengyuhe/ML_Project_2/KNN_keep_punc  1885  06/05/17 2017-05-06 16:32:53 vi Generate_clean_review.py 
+2017-05-06:16:34:11 b05 /export/b05/pengyuhe/ML_Project_2/KNN_keep_punc  1885  06/05/17 2017-05-06 16:33:25 python Generate_clean_review.py 
+2017-05-06:16:34:23 b05 /export/b05/pengyuhe/ML_Project_2/KNN_keep_punc  1882  06/05/17 2017-05-06 16:34:20 vi Model.py 
+2017-05-06:16:34:47 b05 /export/b05/pengyuhe/ML_Project_2/KNN_keep_punc  1883  06/05/17 2017-05-06 16:34:29 vi KNN.py 
+2017-05-06:16:34:51 b05 /export/b05/pengyuhe/ML_Project_2/KNN_keep_punc  1883  06/05/17 2017-05-06 16:34:50 python Model.py 
+2017-05-06:16:34:55 b05 /export/b05/pengyuhe/ML_Project_2/KNN_keep_punc  1884  06/05/17 2017-05-06 16:34:55 rm Model.py 
+2017-05-06:16:35:01 b05 /export/b05/pengyuhe/ML_Project_2/KNN_keep_punc  1885  06/05/17 2017-05-06 16:35:01 rm KNN.py 
+2017-05-06:16:47:23 b05 /export/b05/pengyuhe/ML_Project_2/KNN_keep_punc  1918  06/05/17 2017-05-06 16:47:23 cd KNN_keep_punc/
+2017-05-06:16:47:24 b05 /export/b05/pengyuhe/ML_Project_2/KNN_keep_punc  1918  06/05/17 2017-05-06 16:47:24 ls
+2017-05-06:16:47:36 b05 /export/b05/pengyuhe/ML_Project_2/KNN_keep_punc  1919  06/05/17 2017-05-06 16:47:36 rm Generate_Sentence_Embedding.py 
+2017-05-06:16:47:41 b05 /export/b05/pengyuhe/ML_Project_2/KNN_keep_punc  1920  06/05/17 2017-05-06 16:47:41 rm Generate_Embedding.py 
+2017-05-06:16:47:45 b05 /export/b05/pengyuhe/ML_Project_2/KNN_keep_punc  1921  06/05/17 2017-05-06 16:47:45 rm Generate_LDA.py 
+2017-05-06:16:47:46 b05 /export/b05/pengyuhe/ML_Project_2/KNN_keep_punc  1921  06/05/17 2017-05-06 16:47:46 ls
+2017-05-06:16:47:54 b05 /export/b05/pengyuhe/ML_Project_2/KNN_keep_punc  1922  06/05/17 2017-05-06 16:47:54 rm *.tsv
+2017-05-06:16:47:55 b05 /export/b05/pengyuhe/ML_Project_2/KNN_keep_punc  1917  06/05/17 2017-05-06 16:47:54 l
+2017-05-06:16:47:57 b05 /export/b05/pengyuhe/ML_Project_2/KNN_keep_punc  1917  06/05/17 2017-05-06 16:47:57 ls
+2017-05-06:16:48:09 b05 /export/b05/pengyuhe/ML_Project_2/KNN_keep_punc  1917  06/05/17 2017-05-06 16:48:01 vi Generate_clean_review.py 
+2017-05-06:16:48:20 b05 /export/b05/pengyuhe/ML_Project_2/KNN_keep_punc  1918  06/05/17 2017-05-06 16:48:14 python Generate_clean_review.py 
+2017-05-06:16:48:33 b05 /export/b05/pengyuhe/ML_Project_2/KNN_keep_punc  1885  06/05/17 2017-05-06 16:48:33 ls
+2017-05-06:16:48:41 b05 /export/b05/pengyuhe/ML_Project_2/KNN_keep_punc  1885  06/05/17 2017-05-06 16:48:40 python Generate_clean_review.py 
+2017-05-06:16:49:06 b05 /export/b05/pengyuhe/ML_Project_2/KNN_keep_punc  1886  06/05/17 2017-05-06 16:49:06 cd KNN_keep_punc/
+2017-05-06:16:49:06 b05 /export/b05/pengyuhe/ML_Project_2/KNN_keep_punc  1886  06/05/17 2017-05-06 16:49:06 ls
+2017-05-06:16:50:03 b05 /export/b05/pengyuhe/ML_Project_2/KNN_keep_punc  1886  06/05/17 2017-05-06 16:49:21 python Generate_clean_review.py 
+2017-05-06:16:52:02 b05 /export/b05/pengyuhe/ML_Project_2/KNN_keep_punc  1886  06/05/17 2017-05-06 16:50:30 python KNN.py 
+2017-05-06:16:52:02 b05 /export/b05/pengyuhe/ML_Project_2/KNN_keep_punc  1886  06/05/17 2017-05-06 16:50:30 python KNN.py 
+2017-05-06:17:03:13 b05 /export/b05/pengyuhe/ML_Project_2/KNN_keep_punc  1886  06/05/17 2017-05-06 16:50:30 python KNN.py 
+2017-05-06:17:08:31 b05 /export/b05/pengyuhe/ML_Project_2/KNN_keep_punc  1886  06/05/17 2017-05-06 16:50:30 python KNN.py 
+2017-05-06:17:11:13 b05 /export/b05/pengyuhe/ML_Project_2/KNN_keep_punc  1919  06/05/17 2017-05-06 16:50:10 vi KNN.py 
+2017-05-06:17:11:15 b05 /export/b05/pengyuhe/ML_Project_2/KNN_keep_punc  1886  06/05/17 2017-05-06 16:50:30 python KNN.py 
+2017-05-06:17:11:20 b05 /export/b05/pengyuhe/ML_Project_2/KNN_keep_punc  1919  06/05/17 2017-05-06 17:11:20 ls
+2017-05-06:17:11:48 b05 /export/b05/pengyuhe/ML_Project_2/KNN_keep_punc  1887  06/05/17 2017-05-06 17:11:48 cd KNN_keep_punc/
+2017-05-06:17:11:48 b05 /export/b05/pengyuhe/ML_Project_2/KNN_keep_punc  1887  06/05/17 2017-05-06 17:11:48 ls
+2017-05-06:17:12:51 b05 /export/b05/pengyuhe/ML_Project_2/KNN_keep_punc  1888  06/05/17 2017-05-06 17:11:53 vi Pipeline.sh 
+2017-05-06:17:12:56 b05 /export/b05/pengyuhe/ML_Project_2/KNN_keep_punc  1888  06/05/17 2017-05-06 17:12:56 qhpy
+2017-05-06:17:13:44 b05 /export/b05/pengyuhe/ML_Project_2/KNN_keep_punc  1888  06/05/17 2017-05-06 17:13:15 vi Qsub.sh
+2017-05-06:17:13:56 b05 /export/b05/pengyuhe/ML_Project_2/KNN_keep_punc  1888  06/05/17 2017-05-06 17:13:47 vi Pipeline.sh 
+2017-05-06:17:18:49 b05 /export/b05/pengyuhe/ML_Project_2/KNN_keep_punc_unstem  1875  06/05/17 2017-05-06 17:18:49 cd KNN_keep_punc_unstem/
+2017-05-06:17:18:51 b05 /export/b05/pengyuhe/ML_Project_2/KNN_keep_punc_unstem  1875  06/05/17 2017-05-06 17:18:51 ls
+2017-05-06:17:19:16 b05 /export/b05/pengyuhe/ML_Project_2/KNN_keep_punc_unstem  1875  06/05/17 2017-05-06 17:18:55 vi Generate_clean_review.py 
+2017-05-06:17:19:21 b05 /export/b05/pengyuhe/ML_Project_2/KNN_keep_punc_unstem  1875  06/05/17 2017-05-06 17:19:21 ls
+2017-05-06:17:19:27 b05 /export/b05/pengyuhe/ML_Project_2/KNN_keep_punc_unstem  1875  06/05/17 2017-05-06 17:19:27 chmod +x Qsub.sh 
+2017-05-06:17:19:36 b05 /export/b05/pengyuhe/ML_Project_2/KNN_keep_punc_unstem  1875  06/05/17 2017-05-06 17:19:31 vi KNN.py 
+2017-05-06:17:19:37 b05 /export/b05/pengyuhe/ML_Project_2/KNN_keep_punc_unstem  1875  06/05/17 2017-05-06 17:19:37 qhpy
+2017-05-06:17:19:41 b05 /export/b05/pengyuhe/ML_Project_2/KNN_keep_punc_unstem  1875  06/05/17 2017-05-06 17:19:41 ls
+2017-05-06:17:19:43 b05 /export/b05/pengyuhe/ML_Project_2/KNN_keep_punc_unstem  1875  06/05/17 2017-05-06 17:19:43 ./Qsub.sh 
+2017-05-06:17:19:55 b05 /export/b05/pengyuhe/ML_Project_2/KNN_keep_punc_unstem  1876  06/05/17 2017-05-06 17:19:55 qdel Qsub.sh 
+2017-05-06:17:20:02 b05 /export/b05/pengyuhe/ML_Project_2/KNN_keep_punc_unstem  1877  06/05/17 2017-05-06 17:20:01 qdel 9078981
+2017-05-06:17:20:02 b05 /export/b05/pengyuhe/ML_Project_2/KNN_keep_punc_unstem  1877  06/05/17 2017-05-06 17:20:02 ls
+2017-05-06:17:20:17 b05 /export/b05/pengyuhe/ML_Project_2/KNN_keep_punc_unstem  1877  06/05/17 2017-05-06 17:20:11 vi Pipeline.sh 
+2017-05-06:17:20:38 b05 /export/b05/pengyuhe/ML_Project_2/KNN_keep_punc_unstem  1877  06/05/17 2017-05-06 17:20:11 vi Pipeline.sh 
+2017-05-06:17:20:44 b05 /export/b05/pengyuhe/ML_Project_2/KNN_keep_punc_unstem  1877  06/05/17 2017-05-06 17:20:44 qhpy
+2017-05-06:17:20:53 b05 /export/b05/pengyuhe/ML_Project_2/KNN_keep_punc_unstem  1877  06/05/17 2017-05-06 17:20:52 vi Qsub.sh 
+2017-05-06:17:21:09 b05 /export/b05/pengyuhe/ML_Project_2/KNN_keep_punc_unstem  1877  06/05/17 2017-05-06 17:21:00 vi Pipeline.sh 
+2017-05-06:17:21:19 b05 /export/b05/pengyuhe/ML_Project_2/KNN_keep_punc_unstem  1877  06/05/17 2017-05-06 17:21:11 vi Generate_clean_review.py 
+2017-05-06:17:21:20 b05 /export/b05/pengyuhe/ML_Project_2/KNN_keep_punc_unstem  1877  06/05/17 2017-05-06 17:21:20 ./Qsub.sh 
+2017-05-06:17:21:21 b05 /export/b05/pengyuhe/ML_Project_2/KNN_keep_punc_unstem  1877  06/05/17 2017-05-06 17:21:21 qhpy
+2017-05-06:17:29:17 b05 /export/b05/pengyuhe/ML_Project_2/KNN_keep_punc_unstem  1877  06/05/17 2017-05-06 17:21:21 qhpy
+2017-05-06:17:29:19 b05 /export/b05/pengyuhe/ML_Project_2/KNN_keep_punc_unstem  1877  06/05/17 2017-05-06 17:21:21 qhpy
+2017-05-06:17:29:20 b05 /export/b05/pengyuhe/ML_Project_2/KNN_keep_punc_unstem  1877  06/05/17 2017-05-06 17:29:19 ls
+2017-05-06:19:56:06 b05 /export/b05/pengyuhe/ML_Project_2/KNN_keep_punc_unstem  1901  06/05/17 2017-05-06 19:56:06 cd KNN_keep_punc_unstem/
+2017-05-06:19:56:07 b05 /export/b05/pengyuhe/ML_Project_2/KNN_keep_punc_unstem  1901  06/05/17 2017-05-06 19:56:07 ls
+2017-05-06:19:59:38 b05 /export/b05/pengyuhe/ML_Project_2/KNN_keep_punc_unstem  1901  06/05/17 2017-05-06 19:56:11 vi Best_Results.txt 
+2017-05-06:19:59:39 b05 /export/b05/pengyuhe/ML_Project_2/KNN_keep_punc_unstem  1901  06/05/17 2017-05-06 19:59:39 ls
+2017-05-06:19:59:45 b05 /export/b05/pengyuhe/ML_Project_2/KNN_keep_punc_unstem  1902  06/05/17 2017-05-06 19:59:45 rm Document 
+2017-05-06:19:59:49 b05 /export/b05/pengyuhe/ML_Project_2/KNN_keep_punc_unstem  1903  06/05/17 2017-05-06 19:59:49 rm NN.pyc 
+2017-05-06:19:59:54 b05 /export/b05/pengyuhe/ML_Project_2/KNN_keep_punc_unstem  1903  06/05/17 2017-05-06 19:59:54 ls
+2017-05-06:20:07:40 b05 /export/b05/pengyuhe/ML_Project_2/KNN_keep_punc_unstem  1903  06/05/17 2017-05-06 20:07:40 git init
+2017-05-06:20:07:59 b05 /export/b05/pengyuhe/ML_Project_2/KNN_keep_punc_unstem  1903  06/05/17 2017-05-06 20:07:59 git add README.md
+2017-05-06:20:08:21 b05 /export/b05/pengyuhe/ML_Project_2/KNN_keep_punc_unstem  1904  06/05/17 2017-05-06 20:08:07 vi README.md
+2017-05-06:20:08:23 b05 /export/b05/pengyuhe/ML_Project_2/KNN_keep_punc_unstem  1904  06/05/17 2017-05-06 20:08:23 git add README.md
+2017-05-06:20:08:34 b05 /export/b05/pengyuhe/ML_Project_2/KNN_keep_punc_unstem  1905  06/05/17 2017-05-06 20:08:34 git commit -m 'initial commit'
+2017-05-06:20:08:45 b05 /export/b05/pengyuhe/ML_Project_2/KNN_keep_punc_unstem  1906  06/05/17 2017-05-06 20:08:45 git remote add origin https://github.com/pengyuhe/ML_Project.git
+2017-05-06:20:09:01 b05 /export/b05/pengyuhe/ML_Project_2/KNN_keep_punc_unstem  1906  06/05/17 2017-05-06 20:08:52 git push -u origin master
+2017-05-06:20:14:18 b05 /export/b05/pengyuhe/ML_Project_2/KNN_keep_punc_unstem  1907  06/05/17 2017-05-06 20:14:17 git pull origin master
